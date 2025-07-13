@@ -1,12 +1,3 @@
-## Hi there 👋
+Welcome to the the crew of the Starship codebase!
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+To begin with, you may take a look at the `starship-core` repo for the code of the server providing essential implementation of the game logic and at the `telegram-client` one providing Telegram bot frontend for the game.
